@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 #include "RunScareGame.h"
 using namespace std;
@@ -95,3 +92,4 @@ void RunScareGame::populateTournament(TournamentTree& bracket, string inputFile)
         bracket.monsters.push_back(newMonster);
     }
 }
+
