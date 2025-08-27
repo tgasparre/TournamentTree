@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
- * CPSC350-01
- * PA5: Scare Games
+ * CPSC350-0
  */
 #include "RunScareGame.h"
 #include <iostream>
@@ -15,4 +12,5 @@ int main(int argc, char* argv[])
 {
     RunScareGame scareGame;
     scareGame.runTournament(argv[1], argv[2], "output.dot");
+
 }
