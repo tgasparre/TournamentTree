@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 
 #ifndef MONSTER_H
@@ -67,4 +64,5 @@ class Monster {
      */
         int screamPower;
 };
+
 #endif
