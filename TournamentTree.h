@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 #ifndef TOURNAMENT_TREE_H
 #define TOURNAMENT_TREE_H
@@ -84,5 +81,6 @@ class TournamentTree {
         std::vector<Monster> loserMonsters;
 
 };
+
 
 #endif
