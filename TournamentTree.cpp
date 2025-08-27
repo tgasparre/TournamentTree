@@ -1,9 +1,5 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
- * CPSC350-01
- * PA5: Scare Games
  */
 #include "TournamentTree.h"
 #include <iostream>
@@ -195,4 +191,5 @@ void TournamentTree::runDoubleEliminationFinal()
             rootWinner = ultimateWinner;
         }
     }
+
 }
