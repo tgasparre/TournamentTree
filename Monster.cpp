@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 #include "Monster.h"
 using namespace std;
@@ -72,4 +69,5 @@ void Monster::operator=(const Monster& monsterToCompare)
 {
     this->screamPower = monsterToCompare.screamPower;
     this->name = monsterToCompare.name;
+
 }
