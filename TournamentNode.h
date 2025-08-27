@@ -1,9 +1,6 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 #ifndef TOURNAMENT_NODE_H
 #define TOURNAMENT_NODE_H
@@ -70,4 +67,5 @@ TournamentNode<T>::TournamentNode(T winner)
     this->winner = new T(winner);
     //END CODE FROM CHATGPt, PROMPT ASKED: "I keep getting a 'double free or corruption' error when running my code, how can I fix this?"
 }
+
 #endif
