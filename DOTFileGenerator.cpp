@@ -1,10 +1,7 @@
 
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
  * CPSC350-01
- * PA5: Scare Games
  */
 #include "TournamentNode.h"
 #include <fstream>
