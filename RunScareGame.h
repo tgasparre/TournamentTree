@@ -1,9 +1,5 @@
 /**
  * Tatiana Gasparre
- * 2429174
- *  gasparre@chapman.edu
- * CPSC350-01
- * PA5: Scare Games
  */
 #ifndef RUN_SCARE_GAMES_H
 #define RUN_SCARE_GAMES_H
@@ -46,5 +42,6 @@ class RunScareGame {
         void populateTournament(TournamentTree& bracket, std::string inputFile);
 
 };
+
 
 #endif
